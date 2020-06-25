@@ -1,0 +1,77 @@
+
+[
+    {
+        "name":"Phonebook",
+        "imgSrc": "2.JPG",
+        "link":"https://puhlu-backend.herokuapp.com/",
+         "simpleDesc":"Phone book application - Full Stack",
+        "description":"Front-end is done with React, back-end with ExpressJS and database is  at MongoDB Atlas. This has been very eye-opening little assignment",
+        "technologies":["React", "ExpressJS" , "MongoDB" , "Dotenv","Mongoose"]
+    },
+    {
+        "name":"Carshop",
+        "imgSrc": "7.jfif",
+        "link":"https://carshop-wiscariot.firebaseapp.com/",
+        "simpleDesc":"Simple front-end for carshop’s database",
+         "description": "Fetches data from heroku-database-app and displays it in Material Table. User may add, delete and edit cars, which updates into the database",
+        "technologies":["React", "Material Table", "Material-UI", "Heroku Database API"]
+    },
+    {
+        "name":"Personal Trainer",
+        "imgSrc": "6.jfif",
+        "link":"https://personal-trainer.web.app/",
+         "simpleDesc":"Phone book application - Full Stack",
+        "description":"Front-end is done with React, back-end with ExpressJS and database is  at MongoDB Atlas. This has been very eye-opening little assignment",
+        "technologies":["React", "Material-UI", "Moment", "Heroku Database API"]
+    },
+    {
+        "name":"Valtteri.tech",
+        "imgSrc": "3.JPG",
+        "link":"http://valtteri.tech/",
+         "simpleDesc":"Phone book application - Full Stack",
+        "description":"Front-end is done with React, back-end with ExpressJS and database is  at MongoDB Atlas. This has been very eye-opening little assignment",
+        "technologies":["Javascript", "HTML" , "CSS" , "Google Cloud Platform"]
+    },
+    {
+        "name":"TUDUU",
+        "imgSrc": "4.JPG",
+        "link":"https://tuduu-app.web.app/",
+         "simpleDesc":"To-do-list - My first Javascript application",
+        "description":"When I did build this portfolio I opened this project after awhile, and got to say I still like it. Taking into account that It is made with vanilla JS it is pretty polished for first JS project.",
+        "technologies":["Javascript","HTML","CSS"]
+    },
+    {
+        "name":"Neon Lights",
+        "imgSrc": "5.JPG",
+        "link":"https://neonlights.web.app/",
+         "simpleDesc":"My first HTML page",
+        "description":"My first HTML page, for our school course. Nothing fancy, but I listed this because cyber punk aestethics of this page are super cool!",
+        "technologies":["HTML","CSS"]
+    },
+    {
+        "name":"Pig Game",
+        "imgSrc": "9.JPG",
+        "link":"https://piggame.web.app",
+        "simpleDesc":"Simple Pig Game",
+         "description": "This was part of the Javascript course in Udemy. In the game you try to get set number of scores (by default it's 100). If you throw one you lose the score from current round and it's next players turn. You can set the score to which game is played. Layout isn't my design, but I made some changes to it.",
+        "technologies":["Javascript"]
+    },
+    {
+        "name":"Burger App",
+        "imgSrc": "8.JPG",
+        "link":"https://burgerapp-wiscariot.firebaseapp.com/",
+        "simpleDesc":"Simple React App",
+         "description": "This is part of React course from Udemy. I listed this because it uses older class-based React development. And I heard that it is handy to know some of older React when you are updating/maintaining older React apps.",
+        "technologies":["Class-based React"]
+    },
+    {
+        "name":"Portfolio",
+        "imgSrc": "10.JPG",
+        "link":"#",
+        "simpleDesc":"Portfolio = this.portfolio",
+         "description": "Although the application itself is simple. Developing it was really instructive as I wanted to deploy most of the apps on the web. I got to know some new technologies, like firebase",
+        "technologies":["React", "Firebase", "Heroku"]
+    } 
+
+]
+
